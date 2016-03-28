@@ -1,6 +1,5 @@
 
 ## Written by: Michael Gregory
-## Email: milesper@gmail.com
 ## For coursera data science R programming class, week 3, programming assignment #2
 
 ## This function creates a special "matrix" object that can cache its inverse.
